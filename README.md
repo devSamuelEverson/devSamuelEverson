@@ -16,6 +16,6 @@
 
 <div align="center">
 
-<img width="100%" height="200" alt="wallhaven-3qkzqv_1920x1080" src="https://github.com/user-attachments/assets/95a4995d-05db-4572-981d-cff665db44a9" />
+<img width="1920" height="200" alt="wallhaven-3qkzqv_1920x1080" src="https://github.com/user-attachments/assets/95a4995d-05db-4572-981d-cff665db44a9" />
 
 </div>
