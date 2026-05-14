@@ -6,8 +6,6 @@
 
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:falecomsamueleverson@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/samuel-everson-838b74360/)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin">
-
 </div>
 
 ## Some tools and languages that I use:
