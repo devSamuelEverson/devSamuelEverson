@@ -15,6 +15,12 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <div align="center">
+  
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=devSamuelEverson&show_icons=true&theme=transparent&hide_border=true&title_color=)
+
+</div>
+
+<div align="center">
 
 <img width="1920" height="200" alt="wallhaven-3qkzqv_1920x200" src="https://github.com/user-attachments/assets/aa2f2415-63b7-4c37-9402-b4f2dd9df1f0" />
 
