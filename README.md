@@ -16,7 +16,7 @@
 
 <div align="center">
   
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=devSamuelEverson&show_icons=true&theme=transparent&hide_border=true&title_color=)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=devSamuelEverson&show_icons=true&theme=transparent&hide_border=true&title_color=1a9ae0&text_color=035a8f) ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devSamuelEverson&layout=compact)
 
 </div>
 
