@@ -22,9 +22,6 @@
 
 <div align="center">
 
-
-
-
 <img width="1920" height="200" alt="wallhaven-3qkzqv_1920x200" src="https://github.com/user-attachments/assets/aa2f2415-63b7-4c37-9402-b4f2dd9df1f0" />
 
 </div>
